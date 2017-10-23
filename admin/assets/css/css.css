@@ -1,0 +1,14 @@
+input.pte-attachment-id {
+	display: none;
+}
+
+div.pte-attachment-image img {
+	width: 96px;
+	height: auto;
+	border: 1px solid #e1e1e1;
+	padding: 3px;
+	background-color: #fff;
+	border-radius: 2px;
+	margin-bottom: 10px;
+	cursor: pointer;
+}

@@ -1,0 +1,183 @@
+# Copyright (C) 2017 Post Type Enhanced
+# This file is distributed under the same license as the Post Type Enhanced package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Post Type Enhanced 0.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/post-type-"
+"enhanced\n"
+"POT-Creation-Date: 2017-10-20 18:19+0200\n"
+"PO-Revision-Date: 2017-10-20 18:20+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: admin/includes/class-post-type-enhanced-admin-settings.php:238
+msgid "Yes"
+msgstr "Si"
+
+#: admin/includes/class-post-type-enhanced-admin-settings.php:239
+msgid "No"
+msgstr "No"
+
+#: admin/includes/class-post-type-enhanced-admin-settings.php:379
+msgid "Other plugins by %s"
+msgstr "Altri plugin di %s"
+
+#: admin/templates/addons/post-type-enhanced-admin-templates-addons-featured-image.php:20
+msgctxt "Box Title"
+msgid "Featured Image"
+msgstr "Immagine in evidenza"
+
+#: admin/templates/addons/post-type-enhanced-admin-templates-addons-featured-image.php:33
+msgctxt "Button to select a Featured Image"
+msgid "Select"
+msgstr "Seleziona"
+
+#: admin/templates/addons/post-type-enhanced-admin-templates-addons-featured-image.php:36
+msgctxt "Button to remove a Featured Image"
+msgid "Remove"
+msgstr "Rimuovi"
+
+#: admin/templates/post-type-enhanced-admin-templates-settings-page-sidebar.php:30
+msgctxt "Name of the plugin"
+msgid "Name"
+msgstr "Nome"
+
+#: admin/templates/post-type-enhanced-admin-templates-settings-page-sidebar.php:35
+msgctxt "Plugin version"
+msgid "Version"
+msgstr "Versione"
+
+#: admin/templates/post-type-enhanced-admin-templates-settings-page-sidebar.php:41
+msgctxt "Author's name"
+msgid "Created by"
+msgstr "Creato da"
+
+#: admin/templates/post-type-enhanced-admin-templates-settings-page-sidebar.php:49
+msgctxt "Changelog of the plugin"
+msgid "Changelog"
+msgstr "Changelog"
+
+#: admin/templates/post-type-enhanced-admin-templates-settings-page-sidebar.php:56
+msgctxt "Vote the plugin"
+msgid "Vote"
+msgstr "Vota"
+
+#: admin/templates/post-type-enhanced-admin-templates-settings-page-sidebar.php:60
+msgid "If you find this plugin useful, please consider making a donation"
+msgstr ""
+"Se trovi utile questo plugin, considera la possibilità di fare una donazione"
+
+#: admin/templates/post-type-enhanced-admin-templates-settings-page-sidebar.php:63
+msgctxt "Making a donation"
+msgid "Donate"
+msgstr "Dona"
+
+#: admin/templates/post-type-enhanced-admin-templates-settings-page.php:49
+msgctxt "Box Title"
+msgid "Save"
+msgstr "Salva"
+
+#: admin/templates/post-type-enhanced-admin-templates-settings-page.php:55
+msgctxt "Submit button"
+msgid "Save"
+msgstr "Salva"
+
+#: admin/templates/post-type-enhanced-admin-templates-settings-page.php:58
+msgctxt "View the post type archive"
+msgid "View Archive"
+msgstr "Vedi Archivio"
+
+#. Plugin Name of the plugin/theme
+msgid "Post Type Enhanced"
+msgstr "Post Type Enhanced"
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.francescotaurino.com/wordpress/post-type-enhanced"
+msgstr "https://www.francescotaurino.com/wordpress/post-type-enhanced"
+
+#. Description of the plugin/theme
+msgid ""
+"Post Type Enhanced allows you to add a nice and helpful Post Type "
+"description. Includes The TinyMCE editor, featured images, and other "
+"features."
+msgstr ""
+"Post Type Enhanced consente di aggiungere al post type una descrizione ricca "
+"di contenuti multimediali. Include l'editor TinyMCE, le immagini in evidenza "
+"ed altre caratteristiche."
+
+#. Author of the plugin/theme
+msgid "Francesco Taurino"
+msgstr "Francesco Taurino"
+
+#. Author URI of the plugin/theme
+msgid "https://www.francescotaurino.com"
+msgstr "https://www.francescotaurino.com"
+
+#~ msgid "Featured Image"
+#~ msgstr "Featured Image"
+
+#~ msgid "Select"
+#~ msgstr "Select"
+
+#~ msgid "Remove"
+#~ msgstr "Rimuovi"
+
+#~ msgid "Name"
+#~ msgstr "Nome"
+
+#~ msgid "Version"
+#~ msgstr "Versione"
+
+#~ msgid "Created by"
+#~ msgstr "Creato da"
+
+#~ msgid "Changelog"
+#~ msgstr "Changelog"
+
+#~ msgid "Vote"
+#~ msgstr "Vota"
+
+#~ msgid "Donate"
+#~ msgstr "Dona"
+
+#~ msgid "Save"
+#~ msgstr "Salva"
+
+#~ msgid "View Archive"
+#~ msgstr "Vedi Archivio"
+
+#~ msgid "Submit"
+#~ msgstr "Invia"
+
+#~ msgid "Update"
+#~ msgstr "Aggiornare"
+
+#~ msgid "If you find this plugin useful, please consider making a %s. %s"
+#~ msgstr ""
+#~ "Se trovi utile questo plugin, considera la possibilità di fare una %s. %s"
+
+#~ msgid "donation"
+#~ msgstr "donazione"
+
+#~ msgid ""
+#~ "Your donation will help encourage and support the plugin's continued "
+#~ "development and better user support."
+#~ msgstr ""
+#~ "La tua donazione contribuirà a incoraggiare e sostenere lo sviluppo "
+#~ "continuo del plugin e ad un migliore supporto utenti."
+
+#~ msgid "Support"
+#~ msgstr "Supporto"
+
+#~ msgid ""
+#~ "\"Post Type Enhanced\" allows you to add a html description and/or a "
+#~ "featured image of post type archive"
+#~ msgstr ""
+#~ "\"Post Type Enhanced\" ti consente di aggiungere una descrizione html e/o "
+#~ "un'immagine che rappresenta il post"

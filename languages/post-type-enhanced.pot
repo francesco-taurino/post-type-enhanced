@@ -1,0 +1,113 @@
+# Copyright (C) 2017 Post Type Enhanced
+# This file is distributed under the same license as the Post Type Enhanced package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Post Type Enhanced 1.0.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/post-type-"
+"enhanced\n"
+"POT-Creation-Date: 2017-10-20 16:18:26+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: admin/includes/class-post-type-enhanced-admin-settings.php:238
+msgid "Yes"
+msgstr ""
+
+#: admin/includes/class-post-type-enhanced-admin-settings.php:239
+msgid "No"
+msgstr ""
+
+#: admin/includes/class-post-type-enhanced-admin-settings.php:379
+msgid "Other plugins by %s"
+msgstr ""
+
+#: admin/templates/addons/post-type-enhanced-admin-templates-addons-featured-image.php:20
+msgctxt "Box Title"
+msgid "Featured Image"
+msgstr ""
+
+#: admin/templates/addons/post-type-enhanced-admin-templates-addons-featured-image.php:33
+msgctxt "Button to select a Featured Image"
+msgid "Select"
+msgstr ""
+
+#: admin/templates/addons/post-type-enhanced-admin-templates-addons-featured-image.php:36
+msgctxt "Button to remove a Featured Image"
+msgid "Remove"
+msgstr ""
+
+#: admin/templates/post-type-enhanced-admin-templates-settings-page-sidebar.php:30
+msgctxt "Name of the plugin"
+msgid "Name"
+msgstr ""
+
+#: admin/templates/post-type-enhanced-admin-templates-settings-page-sidebar.php:35
+msgctxt "Plugin version"
+msgid "Version"
+msgstr ""
+
+#: admin/templates/post-type-enhanced-admin-templates-settings-page-sidebar.php:41
+msgctxt "Author's name"
+msgid "Created by"
+msgstr ""
+
+#: admin/templates/post-type-enhanced-admin-templates-settings-page-sidebar.php:49
+msgctxt "Changelog of the plugin"
+msgid "Changelog"
+msgstr ""
+
+#: admin/templates/post-type-enhanced-admin-templates-settings-page-sidebar.php:56
+msgctxt "Vote the plugin"
+msgid "Vote"
+msgstr ""
+
+#: admin/templates/post-type-enhanced-admin-templates-settings-page-sidebar.php:60
+msgid "If you find this plugin useful, please consider making a donation"
+msgstr ""
+
+#: admin/templates/post-type-enhanced-admin-templates-settings-page-sidebar.php:63
+msgctxt "Making a donation"
+msgid "Donate"
+msgstr ""
+
+#: admin/templates/post-type-enhanced-admin-templates-settings-page.php:49
+msgctxt "Box Title"
+msgid "Save"
+msgstr ""
+
+#: admin/templates/post-type-enhanced-admin-templates-settings-page.php:55
+msgctxt "Submit button"
+msgid "Save"
+msgstr ""
+
+#: admin/templates/post-type-enhanced-admin-templates-settings-page.php:58
+msgctxt "View the post type archive"
+msgid "View Archive"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Post Type Enhanced"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.francescotaurino.com/wordpress/post-type-enhanced"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Post Type Enhanced allows you to add a nice and helpful Post Type "
+"description. Includes The TinyMCE editor, featured images, and other "
+"features."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Francesco Taurino"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.francescotaurino.com"
+msgstr ""
