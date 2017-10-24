@@ -3,7 +3,7 @@ All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
  
-## [1.0.4] - 2017-10-21
+## [1.0.4] - 2017-10-24
 
 ### Fixed
 - esc_attr__ to esc_attr_x
